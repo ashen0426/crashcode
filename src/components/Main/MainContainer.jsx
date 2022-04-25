@@ -3,6 +3,8 @@ import NavBar from './NavBar.jsx';
 import styled from 'styled-components';
 import CardsContainer from './CardsContainer.jsx';
 
+import "../../index.css"
+
 // Used styled-components to style the div wrapper
 const Wrapper = styled.div`
   display: flex;
