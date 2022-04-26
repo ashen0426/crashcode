@@ -3,7 +3,7 @@ import { AppBar, Toolbar, Typography, Container } from '@mui/material';
 
 const NavBar = () => {
   return (
-    <AppBar position="static">
+    <AppBar position="static" >
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <Typography
